@@ -42,3 +42,7 @@ sh 00_fastqc_raw.sh
 ```
 
 This will create a directory called 00_scripts/00_fastqc containing the scripts submitted for each sample file you listed
+
+
+
+
