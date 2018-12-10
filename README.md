@@ -2,8 +2,8 @@
 Labex-CORAIL: Impact des techniques d'élevage des huîtres perlières sur le sex ratio, la diversité génétique, et la provenance des naissains collectés.
 
 
-## Prerequisite:
 
+## Prerequisite:
 The data files we are using were already demultiplexed by the sequencing facility.
 
 ### Names of files to be analysed:
@@ -17,6 +17,8 @@ Create a sample_metadata.txt file in "01_info_files" that gather all the samplin
 
 ### Raw sequences files:
 Place the raw fastq files (or their symbolic link) into the "02_data/raw/" folder
+
+
 
 ## Pipeline usage:
 
