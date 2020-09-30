@@ -28,7 +28,7 @@ For example:
 #PBS -l ncpus=4
 #PBS -l mem=23gb
 #PBS -l walltime=24:00:00
-#PBS -o /home1/datawork/creisser/ECOPE/98_log_files
+#PBS -o 98_log_files
 ```
 
 ## Pipeline usage:
